@@ -1,0 +1,10 @@
+@import 'https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap'; /*pode ser colocado aqui ou na tag style no html. Não é interessante colocar dessa forma pelo tempo de loading*/
+
+h1 {
+    color: purple;
+    font-family: 'Ranchers', cursive; /*forma mais eficiente ao invés do import, mas dê preferência ao link no head do html*/
+} 
+
+strong {
+    color: blue;
+}
